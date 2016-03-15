@@ -116,14 +116,5 @@ functioneaza bine.
              fisierele sursa.
             
 
- *  Nota personala ****************************************************
- 
-    O tema greuta si interesanta. A fost destul de mult de scris si problema, 
-privita asa de sus, pare destul de complicata, dar din aproape in aproape, 
-rezolvarea nu e asa grea. A durat pana mi-am dat seama cum se calculeaza 
-solutiile. A fost bine ca enuntul a fost putin ambiguu la capitolul calculare, 
-astfel incat a facut mai multe metode sa fie corecte. Daca ar fi fost in JAVA, 
-cred ca in jumatate de zi era gata, asa, s-a cam dublat timpul. :-)
-
     Andrei Ursache
     
