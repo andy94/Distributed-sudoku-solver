@@ -102,15 +102,6 @@ solutiile, va ramne cu solutiile complete pentru intreaga tabla de joc.
     Va scrie in fisier prima solutie, iar la consola le va aisa pe toate.
     Toate procesele se termina iar pe calnalele de comunicatie nu mai ramane
 niciun mesaj.
-    
-    VI. Alte aspecte:
-    Pe laptopul personal rularea fiecarui test in parte dureaza cateva secunde.
-Un singur test, penultimul de la 3x3 dureaza un minut si ceva.
-    Daca e vreo problema de compilare/rulare/intelegere a outputului, va rog
-sa ma contactati (andreiursache94@gmail.com). Am dedicat mult timp acestei teme 
-si nu as vrea sa fie vreo problema cu rularea pe alte sisteme. Local, 
-functioneaza bine.
-
 
  *   (!!!)   Alte detalii referitoare la implementarea temei se gasesc in 
              fisierele sursa.
